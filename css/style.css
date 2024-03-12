@@ -1,0 +1,33 @@
+.search-bar-main{
+    width: 650px;
+
+}
+.form-control {
+    border-radius: 30px;
+    height: 50px;
+}
+.left-items-container{
+    margin-left: 20px;
+    display: fixed;
+}
+.left-bar-text{
+    margin-left: 12px;
+}
+.left-bar-text{
+    font-size: 17px;
+}
+..custom-btn{
+    cursor: pointer;
+}
+.custom-btn:hover{
+    background-color: black;
+    color: white;
+}
+.input-group-tex{
+    border-radius: 30px;
+}
+.right-bar{
+    cursor: pointer;
+}
+
+
